@@ -1,0 +1,49 @@
+Chao Adventure Scratch Notes
+
+Yoshi’s Story + Paper Mario + Chao Garden = Chao Adventure
+
+
+CLI for modifying in game values (Debug mode)
+
+Map
+2D Plane, x/y
+
+Character
+Can move along both axes, wasd
+
+Chao
+Stats
+
+Food
+
+Animal
+
+
+Levels:
+Mellow Meadows (ALL)
+Balmy Beach (RUN)
+Gusty Gulch (FLY)
+Coral Caves (POW)
+Ruins (SWIM)
+Lava Lake (ALL)
+Shrine (ALL)
+
+Alliteration names are fun, level focus on different stats
+
+Movement
+Fly = Fly upwards.
+Pow = Climbing, destorying walls, digging
+Swim = Breath underwater / swim up. Defense moves
+Run = Dash up hills. Number of moves/Energy FP
+Stamina = Stamina
+
+Battling
+Fly = Wind Attacks, Evasion
+Pow = Physical Attacks, Damage
+Swim = Defense moves, Defense
+Run = Number of attacks, Energy
+Stamina = Health
+
+Chao Garden
+Black Market
+
