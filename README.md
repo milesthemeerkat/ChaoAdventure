@@ -1,6 +1,6 @@
-# ChaoAdventure
+# Boiler Plate
 
-The Chao Adventure. Coming soon!
+The initial boiler plate code for Chao Adventure. Feel free to copy!
 
 ### Installation
 Chao Adventure is built with Python 3.7. It's recommended you create a virtual environment of Python 3.7 to install the project.
